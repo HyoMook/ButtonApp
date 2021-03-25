@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ButtonApp</string>
+    <string name="delHardCodingWarn">윤효묵의 버튼</string>
 </resources>
